@@ -15,3 +15,6 @@ This project covers fundamental networking concepts including:
 - `basics_0/3-UDP_and_TCP` - UDP and TCP questions
 - `basics_0/4-TCP_and_UDP_ports` - Script to display listening ports
 - `basics_0/5-is_the_host_on_the_network` - Script to ping an IP address
+
+## Author
+Holberton School student
