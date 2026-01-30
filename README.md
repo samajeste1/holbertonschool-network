@@ -17,4 +17,5 @@ This project covers fundamental networking concepts including:
 - `basics_0/5-is_the_host_on_the_network` - Script to ping an IP address
 
 ## Author
+
 Holberton School student
